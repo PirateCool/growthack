@@ -1,24 +1,12 @@
-# README
+# Find For Me
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Plateforme pour mettre en contact des entreprises, fontionnaires et chercheurs de stages.
 
-Things you may want to cover:
+1er site destiné aux entreprises :
+https://github.com/zOmegad/thp_landingpage/tree/omegad
 
-* Ruby version
 
-* System dependencies
+2e site destiné aux fonctionnaires :
+https://github.com/mxrch/thp_landingpage/tree/omegad
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
