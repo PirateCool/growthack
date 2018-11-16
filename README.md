@@ -3,14 +3,14 @@
 ## Plateforme pour mettre en contact des entreprises, fontionnaires et chercheurs de stages.
 
 1er site destiné aux entreprises :
-https://github.com/zOmegad/thp_landingpage/tree/omegad
+http://185.216.25.230:9292/
 
 
 2e site destiné aux fonctionnaires :
-https://github.com/mxrch/thp_landingpage/tree/omegad
+http://185.216.25.230:9393/
 
 3e site destiné aux étudiants :
-https://github.com/Runefire32/landingpagethp
+https://landingpagerunefire.herokuapp.com/
 
 
 # Made in Strasbourg with 
