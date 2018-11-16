@@ -10,7 +10,7 @@ http://185.216.25.230:9292/
 http://185.216.25.230:9393/
 
 3e site destiné aux étudiants :
-https://landingpagerunefire.herokuapp.com/
+http://185.216.25.230:9494/
 
 
 # Made in Strasbourg with 
